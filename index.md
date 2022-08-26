@@ -13,8 +13,8 @@ show_tile: false
 <img id="nu" src="assets/images/Northwestern.png">
 <div>
 <b style="font-size:24px;">Northwestern University</b> 
-<br/> <strong>McCormick School of Engineering '26'</strong>
-<br/> Bachelor of Science in Industrial Engineering & Management Sciences (IEMS) and Economics 
+<br/> <strong>McCormick School of Engineering '26</strong>
+<br/> Bachelor of Science in Industrial Engineering and Economics 
 <br/> Candidate for Masters of Science in Computer Science through the BS/MS program</div>
 </div>
 </blockquote>

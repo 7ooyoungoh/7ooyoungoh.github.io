@@ -39,5 +39,6 @@
     <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, rbenv: 3.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="terminal-table (v2.0.0, rbenv: 3.0.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v1.8.0, rbenv: 3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webrick (v1.7.0, rbenv: 3.0.0) [gem]" level="application" />
   </component>
 </module>
