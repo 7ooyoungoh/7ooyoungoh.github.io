@@ -61,12 +61,12 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="assets/images/racketlogo.png"
         width="48"
         height="48"
         alt="TypeScript"
       />
-      <br /><strong>TypeScript</strong>
+      <br /><strong>Racket</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -88,12 +88,12 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
         width="48"
         height="48"
-        alt="C++"
+        alt="C"
       />
-      <br /><strong>C++</strong>
+      <br /><strong>C</strong>
     </td>
 
   </tr>
@@ -145,12 +145,12 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://docs.amplify.aws/assets/logo-dark.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Amplify"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Amplify</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -184,21 +184,21 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://miro.medium.com/max/300/1*_HZPBJ2WejyvkBDJo1CUwg.png"
         width="48"
         height="48"
-        alt="TailwindCSS"
+        alt="MongoDB"
       />
-      <br /><strong>TailwindCSS</strong>
+      <br /><strong>MongoDB</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"
         width="48"
         height="48"
-        alt="UNIX"
+        alt="SQLite"
       />
-      <br /><strong>UNIX</strong>
+      <br /><strong>SQLite</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -211,12 +211,12 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
+        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
         width="48"
         height="48"
-        alt="C"
+        alt="Heroku"
       />
-      <br /><strong>C</strong>
+      <br /><strong>Heroku</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
