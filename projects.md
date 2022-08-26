@@ -16,9 +16,9 @@ nav-menu: true
 			<h2>Skills</h2>
 		</header>
 		<blockquote> 
-		<b>Languages: </b> Python, Java, C, C++, JavaScript, Typescript, HTML, CSS, SASS, Markdown, Racket<br/>
-		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO, Jest<br/>
-		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, TailwindCSS, NextJS
+		<b>Languages: </b> Python, Java, C, JavaScript, HTML, CSS, SASS, Markdown, Racket<br/>
+		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, Firebase, NodeJS, AWS Amplify<br/>
+		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, NextJS, Django, Flask
 		</blockquote>
 
 <style>
