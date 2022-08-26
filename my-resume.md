@@ -114,7 +114,7 @@ nav-menu: true
 
 <div class="content">
     <div class="inner">
-            <a href="assets/Resume-JOH.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer" download="Resume-JOH">Download</a>
+            <a href="assets/Resume_Jooyoung_Oh.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer" download="Resume_Jooyoung_Oh">Download</a>
     </div>
 </div>
 
