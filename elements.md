@@ -1,411 +1,431 @@
 ---
-layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Projects
+layout: landing
+description: 'A collection of my apps and projects.'
+image: assets/images/blue.jpeg
 nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h2>Skills</h2>
 		</header>
+		<blockquote> 
+		<b>Languages: </b> Python, Java, C, C++, JavaScript, Typescript, HTML, CSS, SASS, Markdown, Racket<br/>
+		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO, Jest<br/>
+		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, TailwindCSS, NextJS
+		</blockquote>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+<style>
+
+  @media (max-width: 640px) {
+    #tech {
+      display: none;
+    }
+  }
+</style>
+
+<table id="tech">
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="48"
+        height="48"
+        alt="C++"
+      />
+      <br /><strong>C++</strong>
+    </td>
+
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+        width="48"
+        height="48"
+        alt="Matlab"
+      />
+      <br /><strong>MATLAB</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Nextjs</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48"
+        height="48"
+        alt="GitHub"
+      />
+      <br /><strong>GitHub</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="TailwindCSS"
+      />
+      <br /><strong>TailwindCSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"
+        width="48"
+        height="48"
+        alt="UNIX"
+      />
+      <br /><strong>UNIX</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
+        width="48"
+        height="48"
+        alt="Markdown"
+      />
+      <br /><strong>Markdown</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"
+        width="48"
+        height="48"
+        alt="C"
+      />
+      <br /><strong>C</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        width="48"
+        height="48"
+        alt="GraphQL"
+      />
+      <br /><strong>GraphQL</strong>
+    </td>
+  </tr>
+</table>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-</div>
-
-<hr class="major" />
-
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-</div>
-<div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
-
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
-
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-	</div>
-</div>
-
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
-
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
-</div>
-</div>
-
-</div>
 </section>
 
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/nuft.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Northwestern Financial Technologies Club</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Deployed official NUFT website with custom HTML, CSS, JS, SASS to establish central hub for club activities and inquiries</li>
+						<li>Developed and documented storage paradigms for 5+ data input streams using Python Multiprocessing and WebSocket</li>
+            <li>Coordinated with leadership and technical teams to better integrate APIs and backend data pipelines with CLI</li>
+            <li>Established team workflow and organized weekly meetings to actively track progress of systems development</li>
+            <li>Building trading site for Northwestern University Stock Exchange to facilitate high volume stock market simulations</li>
+            <li>Created overarching club overview in Figma to facilitate faster and more efficient onboarding</li>
+            <li>Designed and constructed basic Command Line Interface foundation to enable uniform data acquisition and analysis from project teams </li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li style="padding-bottom:15px"><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
+          <li style="padding-bottom:15px"><a href="https://www.figma.com/file/135OhNv3xmb5eRGRCNNFAZ/Northwestern-Financial-Technology-Club?node-id=0%3A1" target="_blank" class="button">Figma</a></li>
+          <li style="padding-bottom:15px"><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a></li>
+          <li style="padding-bottom:15px"><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+  <section>
+		<a class="image">
+			<img src="{% link assets/images/LCLB.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:30px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NUFT LeetCode Leaderboard </h3>
+				</header>
+				<p>
+					<ul>
+						<li>Developed custom LC leaderboard for NUFT to boost intrinsic motivation of members for technical interview prep</li>
+						<li>Statically rendered and updated ranking of members using GraphQL queries to LeetCode API to pull real-time stats</li>
+						<li>Deployed with Vercel on GitHub to create CI/CD pipeline for streamlined development and deployment </li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special">Website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/NUSE.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:20px; padding-bottom:20px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NUSE Trade Site</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Actively Building official Northwestern University Stock Exchange website using React, Typescript, Next.js, and TailwindCSS to establish a platform for stock market simulations</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/northwesternfintech" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="#" class="button special">Website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/pacman.jpeg%}" alt="" data-position="25% 25%" style="padding-left:25px; padding-bottom:25px; padding-top:25px; padding-right:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Pac-Man++</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Constructed Pac-Man game from scratch using GE211 game engine in C++ dev environment with Git version control</li>
+						<li>Built user-interactive GUI using Model-View-Controller architectural pattern to enable player-driven gameplay</li>
+						<li>Designed multiple level progression with custom sprites, 2D hitboxes, event handlers, and conclusive unit-testing</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Demo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+  <section>
+		<a class="image">
+			<img src="{% link assets/images/JL.png%}" alt="" data-position="25% 25%" style="padding-left:25px; padding-bottom:25px; padding-top:25px; padding-right:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Web Portfolio</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Produced personalized HTML, CSS, JS, and Markdown snippets to host technical projects and applications on the web</li>
+						<li>Employed simple static web hosting using Jekyll and GitHub pages to optimize website ease-of-access and reliability</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/Jasonxlu.github.io" target="_blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/racketlogo.png %}" alt="" data-position="center center" style="padding-right: 25px; padding-bottom: 25px; padding-top:25px; padding-left:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Text-Based Adventure Game</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Minecraft inspired text-based adventure game written in the Racket programming language for CS111 at Northwestern</li>
+						<li>Utilized pair programming and functional LISP programming to develop a multi-leveled progression system</li>
+						<li>Concluded with unit-testing in the form of a complete walkthrough</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/RacketGame" target="_blank" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/sleeveit.png %}" alt="" data-position="top center" style="padding-right:25px; padding-bottom:25px; padding-top:25px; padding-left:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Wheelchair Seatbelt Storage | Sleeve-It</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Second 10-week design project as a part of Northwestern's Design Thinking & Education II Course</li>
+						<li>Project culminated in Sleeve-It, a simple yet efficient storage system for disengaged wheelchair seatbelts.</li>
+						<li>Gained experience in client communications and design testing as the point of contact when designing prototypes for the Shirley Ryan Ability Lab (SRAL) in Chicago</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/1635493821217/single-media-viewer?type=DOCUMENT&profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTm3KpXHsTp2wdT%2BP763syA%3D%3D" target="_blank" class="button">Final Report</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/hookup.jpg %}" alt="" data-position="top center" style="padding-right:25px; padding-bottom:25px; padding-top:25px; padding-left:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Condominium Bike Storage | HookUp</h3>
+				</header>
+				<p>
+				<ul>
+						<li>10 Week design project as a part of Northwestern's Design Thinking & Communication I Engineering Course</li>
+						<li>Gained experience in project management and product development through prototyping bike storage solution</li>
+						<li>Culminated in a space efficient and accessible bike storage system tackling issues of physical strain and space optimization for the 3440 N. Lake Shore Drive Condominimums</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/experience/1943238299/multiple-media-viewer?profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&treasuryMediaId=1635487655487&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXCCeocgXRqCnvwBSB%2FbNUw%3D%3D" target="_blank" class="button">Final Report</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+
+
+
+
 </div>
+
+<style>
+	#one {
+		/* background-image: url("../assets/images/banner.jpg"); */
+	}
+</style>
