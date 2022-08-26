@@ -14,13 +14,13 @@ show_tile: false
 <div>
 <b style="font-size:24px;">Northwestern University</b> 
 <br/> <strong>McCormick School of Engineering '26</strong>
-<br/> Bachelor of Science in Industrial Engineering and Economics 
-<br/> Candidate for Masters of Science in Computer Science through the BS/MS program</div>
+<br/> BS in Industrial Engineering and Economics 
+<br/> MS in Computer Science through BS/MS program</div>
 </div>
 </blockquote>
 
 <blockquote>
-I am currently a Full-Stack Developer at ClubConnect, a student-initiated startup within the Garage at Northwestern. I love learning new skills and technologies to build out projects of all scales. My personal interests include playing the clarinet, working out, playing video games, and reading about computing and finance. 
+I'm currently a Full-Stack Developer at ClubConnect, a student-initiated startup within the Garage at Northwestern. I love learning new skills and technologies to build out projects of all scales. My personal interests include playing the clarinet, working out, playing video games, and reading about computing and finance. 
 </blockquote>
 
 <blockquote>
