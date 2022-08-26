@@ -20,7 +20,7 @@ show_tile: false
 </blockquote>
 
 <blockquote>
-I am currently a Full-Stack Developer at ClubConnect, a student-initiated startup at the Garage at Northwestern. I love learning new skills and technologies to build out projects of all scales. My personal interests include playing the clarinet, working out, playing video games, and reading about computing and finance. 
+I am currently a Full-Stack Developer at ClubConnect, a student-initiated startup within the Garage at Northwestern. I love learning new skills and technologies to build out projects of all scales. My personal interests include playing the clarinet, working out, playing video games, and reading about computing and finance. 
 </blockquote>
 
 <blockquote>
