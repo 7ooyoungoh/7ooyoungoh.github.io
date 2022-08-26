@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'A collection of my apps and projects.'
+description: 'A collection of my apps and projects'
 image: assets/images/blue.jpeg
 nav-menu: true
 ---
