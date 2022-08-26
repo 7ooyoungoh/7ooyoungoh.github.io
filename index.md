@@ -24,7 +24,7 @@ I am currently a Full-Stack Developer at ClubConnect, a student-initiated startu
 </blockquote>
 
 <blockquote>
-    <b> Relevant Coursework: </b> Honors Multivariable Calculus, Linear Algebra, Differential Equations, C/C++ Programming, Python Programming, Statics, Design Thinking & Communication
+    <b> Relevant Coursework: </b> Honors Multivariable Calculus, Linear Algebra, Differential Equations, C/C++ Programming, Python Programming, Statistics, Design Thinking & Communication
 </blockquote>
 
 
