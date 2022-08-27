@@ -266,9 +266,9 @@ nav-menu: true
 				</header>
 				<p>
 					<ul>
-						<li>Minecraft inspired text-based adventure game written in the Racket programming language for CS111 at Northwestern</li>
-						<li>Utilized pair programming and functional LISP programming to develop a multi-leveled progression system</li>
-						<li>Concluded with unit-testing in the form of a complete walkthrough</li>
+						<li>A web application emulating the e-commerce functionalities of the Amazon website</li>
+						<li>Designed frontend elements with React.js and Express.js & established REST API with Node.js</li>
+						<li>Real-time database, user authentication, and application hosted through Google Firebase</li>
 					</ul>
 				</p>
 				<ul class="actions">
@@ -289,7 +289,9 @@ nav-menu: true
 				</header>
 				<p>
 					<ul>
-						<li>Actively Building official Northwestern University Stock Exchange website using React, Typescript, Next.js, and TailwindCSS to establish a platform for stock market simulations</li>
+                        <li>Utilized Amazon Web Service (AWS) Amplify and Node.js to establish backend for a simple To-Do application built with React.js </li>
+                        <li>Configured user management through AWS IAM, authentication using AWS Cognito, GraphQL API using AWS AppSync </li>
+                        <li>Application hosted and managed through AWS Console</li>
 					</ul>
 				</p>
 				<ul class="actions">
