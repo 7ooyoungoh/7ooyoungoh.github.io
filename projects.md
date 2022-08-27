@@ -255,30 +255,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a class="image">
-			<img src="{% link assets/images/amazon.PNG %}" alt="" data-position="center center" style="padding-right: 100px; padding-bottom: 100px; padding-top:100px; padding-left:100px;"/>
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Amazon MERN Clone</h3>
-				</header>
-				<p>
-					<ul>
-						<li>A web application emulating the e-commerce functionalities of the Amazon website</li>
-						<li>Designed frontend elements with React.js and Express.js & established REST API with Node.js</li>
-						<li>Real-time database, user authentication, and application hosted through Google Firebase</li>
-					</ul>
-				</p>
-				<ul class="actions">
-					<li><a href="https://github.com/northwesternfintech" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="#" class="button special">DEMO</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-    <section>
+<section>
 		<a class="image">
 			<img src="{% link assets/images/amplify.png %}" alt="" data-position="center center" style="padding-left: 100px; padding-right:100px; padding-top:100px; padding-bottom:100px;"/>
 		</a>
@@ -297,6 +274,29 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://github.com/7ooyoungoh/react-amplified" target="_blank" class="button">GitHub Repo</a></li>
 					<li><a href="https://dev.d3n8r732j3xw7y.amplifyapp.com/" target="_blank" class="button special">DEMO</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/amazon.PNG %}" alt="" data-position="center center" style="padding-right: 100px; padding-bottom: 100px; padding-top:100px; padding-left:100px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Amazon MERN Clone</h3>
+				</header>
+				<p>
+					<ul>
+						<li>A web application emulating the e-commerce functionalities of the Amazon website</li>
+						<li>Designed frontend elements with React.js and Express.js & established REST API with Node.js</li>
+						<li>Real-time database, user authentication, and application hosted through Google Firebase</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a class="button">GitHub Repo</a></li>
+					<li><a class="button special">DEMO</a></li>
 				</ul>
 			</div>
 		</div>
