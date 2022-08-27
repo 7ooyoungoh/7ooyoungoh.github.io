@@ -255,6 +255,30 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/amazon.PNG %}" alt="" data-position="center center" style="padding-right: 60px; padding-bottom: 60px; padding-top:60px; padding-left:60px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Amazon MERN Clone</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Constructed a web application emulating the e-commerce functionalities of the Amazon website</li>
+						<li>Reflected user registration/sign-in, shopping cart, total price calculation, and payment</li>
+                        <li>Designed frontend elements with React.js & Express.js and established REST API with Node.js</li>
+						<li>Real-time database, authentication, and application hosted through Google Firebase</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a class="button">GitHub Repo</a></li>
+					<li><a class="button special">DEMO</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 <section>
 		<a class="image">
 			<img src="{% link assets/images/amplify.png %}" alt="" data-position="center center" style="padding-left: 60px; padding-right:60px; padding-top:60px; padding-bottom:60px;"/>
@@ -267,36 +291,13 @@ nav-menu: true
 				<p>
 					<ul>
                         <li>Utilized Amazon Web Service (AWS) Amplify and Node.js to establish backend for a simple To-Do application built with React.js </li>
-                        <li>Configured user management through AWS IAM, authentication using AWS Cognito, GraphQL API using AWS AppSync </li>
+                        <li>Configured user management with AWS IAM, authentication with AWS Cognito, GraphQL API with AWS AppSync </li>
                         <li>Application hosted and managed through AWS Console</li>
 					</ul>
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/7ooyoungoh/react-amplified" target="_blank" class="button">GitHub Repo</a></li>
 					<li><a href="https://dev.d3n8r732j3xw7y.amplifyapp.com/" target="_blank" class="button special">DEMO</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
-			<img src="{% link assets/images/amazon.PNG %}" alt="" data-position="center center" style="padding-right: 60px; padding-bottom: 60px; padding-top:60px; padding-left:60px;"/>
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Amazon MERN Clone</h3>
-				</header>
-				<p>
-					<ul>
-						<li>A web application emulating the e-commerce functionalities of the Amazon website</li>
-						<li>Designed frontend elements with React.js and Express.js & established REST API with Node.js</li>
-						<li>Real-time database, user authentication, and application hosted through Google Firebase</li>
-					</ul>
-				</p>
-				<ul class="actions">
-					<li><a class="button">GitHub Repo</a></li>
-					<li><a class="button special">DEMO</a></li>
 				</ul>
 			</div>
 		</div>
