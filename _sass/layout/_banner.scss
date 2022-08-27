@@ -8,7 +8,7 @@
 
 #banner {
 	@include vendor('align-items', 'center');
-	@include vendor('background-image', 'url("../images/ClubProfileSeven.jpg")');
+	@include vendor('background-image', 'url("../images/ClubProfileSeven.jpeg")');
 	@include vendor('display', 'flex');
 	@include padding(4em, 0, (2em, 0, 0, 0));
 	background-attachment: fixed;
@@ -95,7 +95,7 @@
 	}
 
 	&.major {
-		height: 100vh;
+		height: 95vh;
 		min-height: 30em;
 		max-height: 50em;
 
