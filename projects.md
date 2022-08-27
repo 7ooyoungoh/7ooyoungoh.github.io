@@ -236,7 +236,7 @@ nav-menu: true
 <section id="two" class="spotlights">
   <section>
 		<a class="image">
-			<img src="{% link assets/images/JO.PNG%}" alt="" data-position="center center" style="padding-left:60px; padding-bottom:60px; padding-top:60px; padding-right:60px;"/>
+			<img src="{% link assets/images/JO.PNG%}" alt="" data-position="center center" style="padding-left:70px; padding-bottom:50px; padding-top:50px; padding-right:70px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -257,7 +257,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/amazon.PNG %}" alt="" data-position="center center" style="padding-right: 60px; padding-bottom: 60px; padding-top:60px; padding-left:60px;"/>
+			<img src="{% link assets/images/amazon.PNG %}" alt="" data-position="center center" style="padding-left:70px; padding-bottom:50px; padding-top:50px; padding-right:70px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -281,7 +281,7 @@ nav-menu: true
 	</section>
 <section>
 		<a class="image">
-			<img src="{% link assets/images/amplify.png %}" alt="" data-position="center center" style="padding-left: 60px; padding-right:60px; padding-top:60px; padding-bottom:60px;"/>
+			<img src="{% link assets/images/amplify.png %}" alt="" data-position="center center" style="padding-left:70px; padding-bottom:50px; padding-top:50px; padding-right:70px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
