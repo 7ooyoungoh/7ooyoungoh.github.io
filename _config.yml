@@ -6,7 +6,7 @@ description: Welcome to my online portfolio!<br/> Feel free to check out some of
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://7ooyoungoh.github.io' # the base hostname & protocol for your site
 author: Jooyoung Oh
-street_address: https://github.com/7ooyoungoh
+street_address: https://github.com/joodevs
 city:
 state:
 zip_code:
@@ -22,7 +22,7 @@ tiles-count: 2
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/7ooyoungoh
+  GitHub: https://github.com/joodevs
   GitLab:
   Google-Plus:
   Instagram: https://www.instagram.com/7oo.oh/
