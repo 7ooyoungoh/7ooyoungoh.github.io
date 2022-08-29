@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-This is my personal website which hosts my portfolio of projects and apps. It was adopted from [Jasonxlu's Web Portfolio](https://github.com/Jasonxlu) and built from:
+This is my personal website which hosts my portfolio of projects and apps. It was adopted from [Jasonxlu's Web Portfolio](https://github.com/Jasonxlu/Jasonxlu.github.io) and built from:
 
 # Forty - Jekyll Integration
 
